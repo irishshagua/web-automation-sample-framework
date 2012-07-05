@@ -1,3 +1,10 @@
+# Eclipse Project Crap#
+*.classpath
+*.project
+.metadata/
+.settings/
+
+# Java Binaries #
 *.class
 
 # Package Files #
